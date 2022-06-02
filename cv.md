@@ -23,8 +23,3 @@ I'm just starting my way in IT and my choice fell on web-development. Having suc
  * **Russian** - Native
  * **Ukrainian** - Intermediate
 
-  ***
- #### Languages:
- * **English** - A1
- * **Russian** - Native
- * **Ukrainian** - Intermediate

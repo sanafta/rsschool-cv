@@ -20,12 +20,12 @@
  * Figma, Adobe Photoshop
 
 ***
- ## Courses:
+## Courses:
  * [HTML/CSS](https://edu.fls.guru/)
  * [JS / FRONT-END. STAGE 0](https://rs.school/js-stage0/)
 
 ***
- ## Languages:
+## Languages:
  * **English** - A1
  * **Russian** - Native
  * **Ukrainian** - Intermediate

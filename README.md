@@ -1,1 +1,1 @@
-# rsschool-cv
+https://sanafta.github.io/rsschool-cv/cv
